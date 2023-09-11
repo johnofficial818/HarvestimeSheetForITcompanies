@@ -24,3 +24,5 @@ def clear(xpath):
 
 def send_keys(xpath, keys):
     return driver.find_element(By.XPATH, xpath).send_keys(keys)
+
+#Author : Johnbabu
