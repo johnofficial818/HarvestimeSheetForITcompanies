@@ -1,0 +1,55 @@
+{
+  "url": "https://id.getharvest.com/harvest/sign_in",
+  "username": "avinash.perumal@jksolutions.com",
+  "password": "Jane123#",
+  "holiday_monday": "0",
+  "holiday_tuesday": "0",
+  "holiday_wednesday": "0",
+  "holiday_thursday": "0",
+  "holiday_friday": "0",
+  "working_monday": "8",
+  "working_tuesday": "8",
+  "working_wednesday": "8",
+  "working_thursday": "8",
+  "working_friday": "8",
+  
+  "userNameList": [
+    "avinash.perumal@jksolutions.com", "arunkumar.ramachandranv@jksolutions.com" 
+  ],
+  "passwordList": [
+    "Jane123#", "Gcit@2022"
+  ],
+
+  "userNameListwithData": [
+
+    {
+      "avinash.perumal@jksolutions.com": {
+        "holiday_monday": "0",
+        "holiday_tuesday": "0",
+        "holiday_wednesday": "0",
+        "holiday_thursday": "0",
+        "holiday_friday": "0",
+        "working_monday": "8",
+        "working_tuesday": "8",
+        "working_wednesday": "8",
+        "working_thursday": "8",
+        "working_friday": "8"
+      }
+    },
+    
+    {
+      "arunkumar.ramachandranv@jksolutions.com": {
+        "holiday_monday": "0",
+        "holiday_tuesday": "0",
+        "holiday_wednesday": "0",
+        "holiday_thursday": "0",
+        "holiday_friday": "0",
+        "working_monday": "8",
+        "working_tuesday": "8",
+        "working_wednesday": "8",
+        "working_thursday": "8",
+        "working_friday": "8"
+      }
+    }
+  ]
+}
